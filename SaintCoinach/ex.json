@@ -14494,7 +14494,7 @@
       "sheet": "UIColor",
       "definitions": [
         {
-          "name": "Foreground",
+          "name": "Foreground"
         },
         {
           "index": 1,
